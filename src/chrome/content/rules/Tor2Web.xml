@@ -26,6 +26,7 @@ Fetch error: http://onion.ink/ => https://onion.ink/: (6, 'Could not resolve hos
 	<target host="*.onion.link" />
 	<!-- <target host="*.onion.it" /> -->
 	<target host="*.onion.city" />
+	<target host=".onion.dog"   />
 	<target host="onion.direct" />
 	<target host="*.onion.direct" />
 	<target host="*.tor2web.fi" />
